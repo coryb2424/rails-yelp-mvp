@@ -1,0 +1,21 @@
+.restaurant_card {
+  &:hover {
+
+  }
+}
+
+.restaurant-card__title {
+  h4 {
+    display: inline-block;
+    a {
+      text-decoration: none;
+    }
+  }
+  span{
+    font-size: 15px;
+  }
+}
+
+.restaurant_card p {
+  margin: 0px;
+}
